@@ -85,6 +85,7 @@ public class SubSequence {
 
 public static void main(String[] args) {
 	SubSequence ss = new SubSequence();
+	//change strings here
 	ss.SubSequence("ABAZDC", "BACBAD");
 }
 }
